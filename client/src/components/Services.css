@@ -1,26 +1,99 @@
-.service{
+/* .s{
     position: absolute;
 width: 1440px;
 height: 441px;
 left: 0px;
-top: 920px;
+top: 420px;
 
 background: #FFFFFF;
-}
+} */
 
 .todo{
     position: absolute;
-width: 70px;
-height: 18px;
+    width: 70px;
+    height: 18px;
+    left: 135px;
+    top: 990px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #F17216;
+
+}
+
+.todo2{
+    position: absolute;
+width: 289px;
+height: 53px;
 left: 135px;
-top: 990px;
+top: 1020px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+/* identical to box height, or 147% */
+
+letter-spacing: 0.02em;
+
+color: #282C4B;
+}
+
+.todo3{
+    position: absolute;
+width: 335px;
+height: 96px;
+left: 135px;
+top: 1097px;
 
 font-family: 'Ubuntu';
 font-style: normal;
 font-weight: 400;
-font-size: 16px;
-line-height: 18px;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
 
-color: #F17216;
 
+color: #747582;
+
+}
+
+.todo4{
+    position: absolute;
+width: 72px;
+height: 25px;
+left: 592px;
+top: 1097px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+/* identical to box height, or 125% */
+
+
+color: #14183E;
+}
+.todo5{
+    position: absolute;
+width: 177px;
+height: 81px;
+left: 592px;
+top: 1141px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 27px;
+/* or 180% */
+
+
+color: #747582;
 }

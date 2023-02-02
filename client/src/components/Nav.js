@@ -1,5 +1,6 @@
 import react from "react"
 import "./Nav.css"
+import Services from "./Services"
 const Nav=()=>{
     return(
         <div className="header">
@@ -21,6 +22,10 @@ const Nav=()=>{
                <p className="sentence3">Support small business and join the nationwide movement to encourage commercial support for the millions of minority owned businesses helping world economy.</p>
                <button className="button1">Get Started</button>
            <p className="button2">Book a 30 Min Quick Meeting</p>
+           <div className="service">
+           {/* <p className="to">Services</p> */}
+           <Services></Services>
+           </div>
              
             </div>
 
