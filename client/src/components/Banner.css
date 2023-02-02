@@ -1,0 +1,48 @@
+.banner{
+    position: absolute;
+width: 1440px;
+height: 140px;
+left: 0px;
+top: 780px;
+
+background: #FFFFFF;
+}
+
+.first1{
+    position: absolute;
+left: 31.99%;
+right: 0%;
+top: 1.52%;
+bottom: 13.99%;
+
+background: #B7C0CC;
+}
+.second2{
+    position: absolute;
+left: 0.02%;
+right: 0.02%;
+top: 0%;
+bottom: 0%;
+
+background: #B7C0CC;
+}
+.third3{
+    position: absolute;
+left: 58.83%;
+right: 33.51%;
+top: 18.32%;
+bottom: 81.22%;
+
+background: #282C4B;
+}
+
+.fourth4{
+    position: absolute;
+left: 0.01%;
+right: 0.01%;
+top: 0%;
+bottom: 0%;
+
+background: #B7C0CC;
+}
+
